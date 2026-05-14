@@ -1,4 +1,4 @@
-# GhostWave — ESP32 Penetration Testing Firmware
+# Wave — ESP32 Penetration Testing Firmware
 
 > **⚠️ AUTHORIZED USE ONLY** — Only test networks and devices you own or have
 > explicit written permission to test. Unauthorized use is illegal in most
