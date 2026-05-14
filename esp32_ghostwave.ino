@@ -1,5 +1,5 @@
 /**
- *  GhostWave — ESP32 Penetration Testing Firmware
+ *  Wave — ESP32 Penetration Testing Firmware
  *  ================================================
  *  LEGAL NOTICE: This firmware is intended exclusively for
  *  authorized security research and penetration testing on
