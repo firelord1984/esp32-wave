@@ -1,5 +1,7 @@
 # Wave — ESP32 Penetration Testing Firmware
 
+**DISCLAIMER STILL IN BETA TESTING SOME FEATURES MAY NOT WORK AND WILL BE EXTREMELY BUGGY!**
+
 > **⚠️ AUTHORIZED USE ONLY** — Only test networks and devices you own or have
 > explicit written permission to test. Unauthorized use is illegal in most
 > jurisdictions (CFAA, Computer Misuse Act, etc.).
